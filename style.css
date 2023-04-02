@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
   background-color: #E4E4E4;
+
 }
 
 
@@ -21,7 +22,6 @@ body {
 }
 
 #work-experience {
-  max-width: 840;
   min-height: 1000px;
   width: 70%;
   background-color: white;
