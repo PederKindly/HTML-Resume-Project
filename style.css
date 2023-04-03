@@ -139,6 +139,10 @@ h5 {
   font-size: 12px;
 }
 
-a {
+#contact-skills a {
   color: white;
+}
+
+#workexperience a {
+  color: blue;
 }
